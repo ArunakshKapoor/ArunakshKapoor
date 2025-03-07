@@ -7,7 +7,7 @@ def basic_info():
 
 def education():
   Self-learning about Machine Learning and Artificial Intelligence
-  Currently pursuing Bachelor's in Computer Science from Nanyang Technological University in Singapore
+  Currently pursuing Bachelor's in Computer Science from Nanyang Technological University, Singapore
 
 def fields_of_interest():
   Data Science
