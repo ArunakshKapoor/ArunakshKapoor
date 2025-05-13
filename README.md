@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hey%20Everyone!&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20profile!&descAlignY=70&descSize=25)
 ```yaml
 # Arunaksh Kapoor's GitHub Profile
-# A Data Analyst Intern passionate about Data Science, Machine Learning, and Financial Data Analysis.
+# Aspiring Backend Developer | Passionate about Building Scalable Systems, APIs, and Data-Driven Applications
 
 def basic_info():
     """
@@ -9,53 +9,35 @@ def basic_info():
     """
     name = "Arunaksh Kapoor"
     located_in = "Singapore"
-    current_job = "Data Analyst Intern"
-    return name, located_in, current_job
+    current_role = "Computer Science Student & Backend Developer in Training"
+    return name, located_in, current_role
 
 def education():
     """
-    Educational Background and Self-Learning Journey
+    Educational Background and Learning Journey
     """
-    self_learning = "Self-learning about Machine Learning and Artificial Intelligence"
-    degree = "Currently pursuing Bachelor's in Computer Science from Nanyang Technological University, Singapore"
-    return self_learning, degree
+    university = "Pursuing a Bachelor's in Computer Science at Nanyang Technological University, Singapore"
+    backend_learning = "Learning backend development via Boot.dev and hands-on projects"
+    return university, backend_learning
 
 def fields_of_interest():
     """
-    Fields of Interest and Expertise
+    Technical Interests and Focus Areas
     """
     interests = [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Analysing financial data through Python"
+        "Backend Development",
+        "API Design & RESTful Services",
+        "Databases & Data Modeling",
+        "Cloud Infrastructure (AWS, Azure)",
+        "Security and Authentication",
+        "Building clean, maintainable backend systems"
     ]
     return interests
 
 def currently_learning():
     """
-    Current Learning Focus and Projects
+    Current Learning Focus and Active Projects
     """
-    learning_topics = [
-        "Linear Regression models",
-        "Building a Trading bot with Python",
-        "JIRA and Azure Fundamentals"
-    ]
-    return learning_topics
-
-# --- Execution ---
-if __name__ == "__main__":
-    print("Welcome to my GitHub profile!")
-    print("\nBasic Info:")
-    print(basic_info())
-    
-    print("\nEducation:")
-    print(education())
-    
-    print("\nFields of Interest:")
-    print(fields_of_interest())
-    
-    print("\nCurrently Learning:")
-    print(currently_learning())
+    learning_topics =_
   
 ```
